@@ -1,4 +1,4 @@
-## E2e Test Website Sauce Demo
+## Sauce Demo Testing Using Cypress
 We testing website https://saucedemo.com/ using cypress
 
 ### Contributors from Kelompok 3 - TI3D
